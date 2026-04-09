@@ -1,0 +1,6 @@
+@FileMonitoringApi_HostAddress = http://localhost:5095
+
+GET {{FileMonitoringApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
